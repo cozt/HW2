@@ -1,0 +1,7 @@
+#include<stdio.h>
+#include<stdlib.h> //library for c
+int main(){
+printf("Hello WORLD"); /*print out
+			hello world*/
+return 0; // return the values to zero
+}
